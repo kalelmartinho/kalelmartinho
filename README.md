@@ -7,10 +7,9 @@ Olá, eu sou Kalel L. Martinho!
   </div>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&color=5FC397&center=true&lines="Don't+be+a+programmer%EF%BC%8C+Be+a+problem+solver.")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&color=5FC397&center=true&lines="Don't+be+a+programmer%EF%BC%8C+Be+a+problem+solver.")](https://git.io/typing-svg)
   
-</p>
+
 
 <img align="left" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>

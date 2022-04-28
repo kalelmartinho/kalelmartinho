@@ -24,14 +24,12 @@ kalelmartinho@github
 🌟 Main language: Python
 🚩 Interested in Full Stack Machine Learning Application development
 🎵 Love metal, lofi, jazz and soft music
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&color=5FC397&center=true&lines="Don't+be+a+programmer%EF%BC%8C+Be+a+problem+solver.")](https://git.io/typing-svg)
+
 
 <hr>
 
 
 ## 🛠️ My Favorite Tools
-
-### 👨‍💻 Programming Languages
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>  
@@ -40,21 +38,12 @@ kalelmartinho@github
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-
-### 🧰 Frameworks and Libraries
-
-<p>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="BootStrap" src="https://img.shields.io/badge/BootStrap%20-%23430098.svg?logo=BootStrap&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-008678.svg?logo=android-studio&logoColor=white"></a>
 
-</p>
-
-### 💻 Software and Tools
-
-<p>
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>

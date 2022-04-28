@@ -14,7 +14,7 @@ Olá, eu sou Kalel L. Martinho!
 <img align="left" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
-```
+
 kalelmartinho@github
 -------------------------
 💻 I am a self taught Data Scientist and a Machine Learning Developer
@@ -24,7 +24,8 @@ kalelmartinho@github
 🌟 Main language: Python
 🚩 Interested in Full Stack Machine Learning Application development
 🎵 Love metal, lofi, jazz and soft music
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&color=5FC397&center=true&lines="Don't+be+a+programmer%EF%BC%8C+Be+a+problem+solver.")](https://git.io/typing-svg)
+
 <hr>
 
 
@@ -60,16 +61,6 @@ kalelmartinho@github
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-
-
-## GitHub Stats
-
-
-    
-
-|                                                                                                      Kalel's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=kalelmartinho&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
 
 
 

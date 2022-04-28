@@ -8,7 +8,8 @@ Olá, eu sou Kalel L. Martinho!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&color=5FC397&center=true&lines="Don't+be+a+programmer%EF%BC%8C+Be+a+problem+solver.")](https://git.io/typing-svg)
+  
 </p>
 
 <img align="left" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
@@ -23,7 +24,6 @@ kalelmartinho@github
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main language: Python
 🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
 🎵 Love metal, lofi, jazz and soft music
 ```
 <hr>
@@ -47,17 +47,10 @@ kalelmartinho@github
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="BootStrap" src="https://img.shields.io/badge/BootStrap%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="BootStrap" src="https://img.shields.io/badge/BootStrap%20-%23430098.svg?logo=BootStrap&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-008678.svg?logo=android-studio&logoColor=white"></a>
 
 </p>
-
-### 🗄️ Databases and Cloud Hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-%23316192.svg?logo=firebase&logoColor=white"></a>
 
 ### 💻 Software and Tools
 
@@ -65,11 +58,8 @@ kalelmartinho@github
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-### 👨🏽‍💻 Workspace
 
 
 

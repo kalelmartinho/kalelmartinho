@@ -15,13 +15,8 @@ Hi, i am Kalel!
 ``` 
 kalelmartinho@github
 -------------------------
-💻 I am a self taught Data Scientist and a Machine Learning Developer
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
+💻 I am a self taught developer
 🌟 Main language: Python
-🚩 Interested in Full Stack Machine Learning Application development
-🎵 Love metal, lofi, jazz and soft music
 ````
 
 <hr>
